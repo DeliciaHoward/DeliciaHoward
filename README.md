@@ -1,16 +1,18 @@
-## Hi there 👋
+<h1 align="center"> 
+  <img src="CatDance.gif" width="32px" height=auto> ✨Hola soy Delis✨ <img src="CatDance.gif" width="32px" height=auto>
+</h1>
 
-<!--
-**DeliciaHoward/DeliciaHoward** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+ **Estudios y hobbies previos:**
+ - 📚 Actualmente soy estudiante de la carrera **_Analista Programador_**
+ - 💄 Maquillaje Profesional (social)
+ - 🎞 Edicion de videos
+ - 🖼 Edicion de fotos
+ - 🌐 Inglés B1
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Cosas que me gustan**
+- 🎧 Mi banda favorita es Muse
+- 🐈 Los gatos
+- 🧉
+- 🧐 Criticar a la sociedad
+- 👁 1984
